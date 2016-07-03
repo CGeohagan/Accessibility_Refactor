@@ -23,6 +23,17 @@ a {
   color: #fff;
 }
 
+a.buy {
+  background: #92e8cb;
+  padding: 5px;
+  border-radius: 4px;
+  color: #2d2b30;
+}
+
+a.buy:hover {
+  background: #FFD059;
+}
+
 /* Section Styles */
 
 .main-nav {
